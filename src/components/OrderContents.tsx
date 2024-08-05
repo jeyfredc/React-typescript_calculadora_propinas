@@ -1,6 +1,6 @@
-import { MenuItem, OrderItem } from "../types"
+import { OrderItem } from "../types";
 import { formatCurrency } from '../helpers/index';
-import { Dispatch, DispatchWithoutAction } from "react";
+import { Dispatch } from "react";
 import { OrderActions } from "../reducers/order-reducer";
 
 type OrderContentsProps = {

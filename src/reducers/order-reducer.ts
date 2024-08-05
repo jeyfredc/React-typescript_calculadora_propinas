@@ -52,13 +52,17 @@ export const orderReducer = (
 
     if (action.type === 'clean-order') {
         return {
-            ...state
+            ...state,
+            order: [],
+            tip: 0
         }
     }
 
     if (action.type === 'add-tip') {
+        const tip = action.payload.value
         return {
-            ...state
+            ...state,
+            tip
         }
     }
 return state
