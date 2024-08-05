@@ -1,8 +1,8 @@
 # Projecto creado en React con Vite
 
-Projecto de tienda de guitarras con carrito de compras para calcular precio, añadir items, actualizar cantidades, etc.
+Projecto de calculadora de propinas, permite añadir item, cantidades, calcular precios y propinas, calcular total
 
-Uso de UseState, UseEffect, UseMemo, guardar en localStorage y TypeScript
+Uso de UseState, UseEffect, UseMemo, guardar en localStorage y TypeScript, uso de Reducer y manejo de estados
 
 Pagina disponible en el siguiente [link](https://cheery-sunflower-8a5dd6.netlify.app/)
 
