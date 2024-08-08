@@ -1,4 +1,4 @@
-# Projecto creado en React con Vite
+# Proyecto creado en React con Vite
 
 Projecto de calculadora de propinas, permite añadir item, cantidades, calcular precios y propinas, calcular total
 
